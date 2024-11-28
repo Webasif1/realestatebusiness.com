@@ -770,6 +770,9 @@ fieldset {
   overflow: hidden;
   z-index: -111;
 }
+  .navbar>.container{
+  z-index: 1111;
+}
 .carousel-control-next,
 button.carousel-control-prev {
   z-index: -1;
